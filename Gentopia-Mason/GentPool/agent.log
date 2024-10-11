@@ -1,0 +1,2078 @@
+INFO:root:Creating Config from file: ./gentpool/pool/kim_pdfreader/agent.yaml
+INFO:root:Starting to load configuration from ./gentpool/pool/kim_pdfreader/agent.yaml
+INFO:root:Successfully loaded configuration from ./gentpool/pool/kim_pdfreader/agent.yaml
+INFO:root:--------------------
+INFO:root:[green]Welcome to Gentopia!
+INFO:root:--------------------
+INFO:root:[green]User: 
+INFO:root:kim_pdfreader is thinking...
+INFO:root:Done
+INFO:root:[blue]kim_pdfreader: 
+INFO:root:{"name":"pdf_analyzer", "arguments":{"pdf_source":"https://www.jcu.edu.au/__data/assets/pdf_file/0006/115548/Maths-Refresher-Workbook-1.pdf"}}
+
+INFO:root:Calling function: pdf_analyzer ...
+INFO:root:Done
+INFO:root:--------------------
+INFO:root:PDF Analysis for https://www.jcu.edu.au/__data/assets/pdf_file/0006/115548/Maths-Refresher-Workbook-1.pdf:
+
+Total pages: 42
+
+Metadata:
+/Author: Kerry Smith
+/Company: James Cook University
+/CreationDate: D:20180831125633+10'00'
+/Creator: Acrobat PDFMaker 18 for Word
+/ModDate: D:20231010164109+10'00'
+/Producer: Adobe PDF Library 15.0
+/SourceModified: D:20180830054558
+/Title: Refresher Maths
+
+Text from page 1:
+ 
+Maths Refresher 
+ 
+Workbook 1 
+ 
+ 
+ 
+This booklet will help to refresh your understanding of: 
+ 
+• number 
+• decimals, fractions and percentages 
+• exponents and roots 
+www.jcu.edu.au/stud ents/learning -centre 
+ 
+ 
+
+
+Text from page 2:
+
+
+Text from page 3:
+Page 1 of 40 
+ Maths  Refresher  
+Booklet  1 
+Contents  
+ 
+1. Introduction: Number  ................................................................................................................................................. 2 
+2. Rounding and Estimating ............................................................................................................................................ 5 
+3. Order of Operations .................................................................................................................................................... 6 
+4. Naming Fractions  ........................................................................................................................................................ 7 
+5. Equivalent Fractions  ................................................................................................................................................... 8 
+6. Con verting Mixed Numbers to Improper Fractions  ................................................................................................... 9 
+7. Converting Improper Fractions to Mixed Numbers  .................................................................................................  10 
+8. Converting Decimals into fractions ........................................................................................................................... 11 
+9. Converting Fractions into Decimals  .......................................................................................................................... 12 
+10. Fraction Addition and Subtraction  ......................................................................................................................... 12 
+11. Fraction Multiplication and Division  ....................................................................................................................... 14 
+12. Percentage  .............................................................................................................................................................. 16 
+12 (continued). Activity: What do I need to get on the final exam???  ........................................................................ 17 
+13. Ratio  ........................................................................................................................................................................ 19 
+14. Averages  .................................................................................................................................................................  22 
+15. Powers  .................................................................................................................................................................... 23 
+16. Power Operations  ................................................................................................................................................... 24 
+17. Roots  ....................................................................................................................................................................... 25 
+18. Root Operations ...................................................................................................................................................... 26 
+19. Fraction Powers/Exponents  .................................................................................................................................... 27 
+20. Logarithms  .............................................................................................................................................................. 28 
+21. Unit Conve rsions  ..................................................................................................................................................... 29 
+22. ANSWERS  ................................................................................................................................................................ 34 
+23. Glossary  .................................................................................................................................................................. 38 
+24. Helpful websites  ..................................................................................................................................................... 40 
+ 
+ 
+ 
+
+Text from page 4:
+Page 2 of 40 
+ 1. Introduction: Number  
+• Mathematics is the science of patterns and relationships related to quantity. Listed below are some of the 
+many relationships you may have come across :  
+ 
+o Every number is related to every other number in a number relationship. For example, 8 is 2 less 
+than 10; made up of 4 and 4 (or 3 and 5) ; and is 10 times 0.8; is the square root of 64; and so on….  
+o Number relationships are the foundation of strategies that  help  us remember number facts. For 
+instance , knowing 4 + 4 = 8 allows one to quickly work out 4 + 5 = 9 (one more than 8); If one 
+knows that 2 x 5 = 10, then 4 x 5 and 8 x 5 can easily be calculated  (double 2 is 4 and so double 10 
+is 20; then double 4 is 8 and so double 20 is 40) . 
+o Each digit in a written numeral has a ‘place’ value which shows its relationship to ‘1’. For example, 
+in 23.05 the value of the ‘2’ is 20 ones, while the value of the ‘5’ is only five -hundredths of one. 
+Understanding p lace value is critical to working with numbers . 
+ 
+• Mathematics is considered a universal language; however, words in English can often have more than one 
+meaning which is why we sometimes find it difficult to translate from English to mathematical expressions.  
+ 
+• Arithm etic is a study of numbers and their manipulation.  
+ 
+• The most commonly used numbers in arithmetic are integers, which  are positive and negative whole 
+numbers including zero. For example: - 6,-5,-4,-3,-2,-1,0,1,2,3,4,5,6.  Decimal fractions are not integers 
+becaus e they are ‘parts of a whole’, for instance, 0.6 is 6 tenths of a whole.  
+ 
+• The symbols we use between the numbers to indicate a task or relationships are the operators , and the 
+table below provides a list of common operators. You may recall the phras e, ‘doing an operation.’  
+Symbol  Meaning  
++ Add, Plus, Addition, Sum  
+− Minus, Take away, Subtract, 
+Difference  
+× Times, Multiply, Product,  
+÷ Divide, Quotient  
+± Plus or Minus  
+|a| Absolute Value (ignore –ve sign)  
+= Equal  
+≠ Not Equal  
+< Less than  
+> Greater than  
+≪ Much Less than  
+≫ Much More than  
+≈ Approximately equal to  
+≤ Less than or equal  
+≥ Greater than or equal  
+
+Text from page 5:
+Page 3 of 40 
+ Example:  
+1. 12±6=6 𝑜𝑜𝑜𝑜 18.    12−6 𝑜𝑜𝑜𝑜 12+6  
+2. |−6|=6 
+3. 12.999  ≈13 
+4. 12 ≠7 
+5. Speed of light ≫ speed of sound  
+ 
+ 1. Your Turn :  
+Are the following statements true?  
+a) 32≠ 4×8 
+b) 7>6 
+c) 4≥4 
+d) |5|=5 
+e) 37.1 + 22.02 = 59.3  
+ 
+Integers  
+Whole numbers are integers; there are positive and negative integers. Positive integers  are 1, 2, 3, 4, 5…  
+The negative integers are … - 5, -4, -3, -2, -1 (the dots before or after the sequence indicate that there are more 
+numbers in this sequence that continue indefinitely ).  
+Here are some more terms for you:  
+An equation implies that what is on either side  of the  ‘=’ sign balances .  
+The sum  of two numbers implies two numbers are added together.  
+The sum of 4 and 8 is 12; 4+8=12 
+The difference of two numbers implies that the second number is 
+subtracted from the first number.   
+The difference between 9 and three is 6; 9−3=6 
+The product  of two nu mbers implies that two numbers are multiplied together.  
+ The product of 3 and 4 is 12; 3×4=12 
+The quotient  of two numbers implies that the first number is divided by the second.  
+ The quotient of 20 and 4 is 5; 20
+4 = 5 or 20 ÷4=5 
+Rational Number: The term r ational derives from the word ratio. Hence, a rational number can be a described by a 
+ratio of integers or as a fraction. For example, 3
+4 𝑎𝑎𝑎𝑎𝑎𝑎  0.75 are both rational numbers.  
+Irrational number : A number that cannot be written as a simple fraction or as a decimal fraction. If the number 
+goes on forever without terminating , and without repeating , then it is an irrational number. For example, 
+𝜋𝜋 is a recurring decimal that does not repeat: 3.14159…  Therefore, 𝜋𝜋 is an irrational number.  
+Directed Numbers (negative and positive integers)  
+Directed numbers are numbers that have positive (+) and (–) signs signifying their direction.  
+Note  that when using the calculator , we use the ( −) key rather than the subtraction key , and e ach negative 
+number may need to be bracket ted, for instance, (−3) + (+3) = 0.  
+When naming directed numbers we use the terms negative and positive numbers; avoiding the terms plus and 
+minus unless you are indicating that an operation is taking place of plus for addition and minus for subtract ion. So, 
+(−3)+3=0 reads ‘ negative 3 plus positive 3  equals zero ’ 
+To use a graphic symbol we can display (−5) and (+5) as       .    .    .    .    .    .    .    .    .    .    .  
+                                                                                                               −5                   0                     +5 
+This graphic symbol is known as a number line and can be used to show how and why operations work . 
+   
+Addition: 
+To add a number we move to the right:   
+ 2+4=6 
+ 0  +2     
+2    +4       
+6 
+
+
+Text from page 6:
+Page 4 of 40 
+ Here we are adding a positive number beginning at a negative number . Thus if we begin at zero we move in a 
+negative direction to get to - 2, and then in a positive direction of 6, and so we reach +4 : 
+ 
+(−2) + (+6) = 4 
+-2    0    +6   
+4   
+ 
+ 
+Your Turn: Represent −3 + 5 = 
+   
+   0      
+   
+ 
+Subtraction: 
+To subtract a positive number we move that number of places to the left. For example, 5−7 means we are 
+subtracting a positive number, so we start at five and move 7 places to the left to get −2.  ∴  5−7=−2 
+ 
+Then to subtract a negative number we do the opposite and so we move to the right.  
+ 
+For example : (−2)−(−5)=3    ‘negative 2 minus negativ e 5’ which means ( −2)+5.  Hence , subtracting a 
+negative number is the same as adding a positive)  
+  
+-2   0    3   
+ 
+ 
+Remember that subtraction of an integer means adding its opposite , thus, if we subtract a negative number we 
+move to the right and if we add a negative number we move to the left –  the opposite. For example, if we add a 
+negative number 5+( -3) then we move to the left:  
+ 
+   0  2     5 
+So, 5+(−3) is the same as 5−3=2 (so adding a negative number is the same as subtracting a positive number ) 
+    
+ 
+1. Your Turn: 
+f) What is the value of 6 in the number 896  324 .51 
+g) What is the value of 1?  
+h) What is the number that is six more than the difference between nineteen and ten.  
+i) From the product of twelve and six, subtract the quotient of twelve and six  
+j) Evaluate (i)      8+(−4)= 
+                       (ii) −15+(−6)= 
+                      (iii) −15−(−6)= 
+ 
+ 
+Watch this  short Khan  Academy video  for further explanation:  
+“Learn how to add and subtract negative numbers”  
+https://www.khanacademy.org/math/pre -algebra/negatives -absolute -value -pre-alg/add -subtract -negatives -pre-alg/v/adding -and-
+subtracting -negative -number -examples  
+
+
+Text from page 7:
+Page 5 of 40 
+ 2. Rounding and Estimating 
+Rounding numbers is a method of decreasing the accuracy of a number to make calculations easier. Rounding is 
+importan t when answers need to be given to a  particular degree of accuracy. With the advent of calculators, we 
+also need to be able to estimate a calculation to detect  when the answer might be incorrect.  
+The R ules for Rounding: 
+1. Choose the last digit  to keep.  
+2. If the digit to the right of th e chosen digit is 5 o r greater, increase the chosen digit by 1.  
+3. If the digit to the right of the chosen digit is less than 5, the chosen digit stays the same.  
+4. All digits to the right are now removed.  
+For example, what is 7 divided by 9 rounded to 3 decimal places?  
+So, 7÷9 =0.777777777777777777777777777777777777 𝑒𝑒𝑒𝑒𝑒𝑒. 
+The chosen digit is the third  seven ( 3 decimal  places) .   
+The digit to the right of the chosen digit is  7, which is larger than 5 , so we increase the 7 by 1, thereby 
+changing this digit to an 8.  
+∴ 7÷9 =0.778 to three decimal places.  
+5. The quotient in rule 4 above is called a recurring decimal . This can  also be represented as 0. 7̇; the dot 
+above s ignifies that the digit is repeated. If the number was 0.161616 , it would have two dots to symbolise 
+the two repeating digits: 0 .1̇6̇ 
+Estimating  is a very important ability which is often ignored.  A leading cause of getting math problems wrong is 
+because of entering the numbers into the calculator incorrectly . It helps to  be able to e stimate the answer to check 
+if your calculations are correct.  
+Some simple methods  of estimation : 
+o Rounding:  273 .34+314 .37= ? If we round to the tens we get 270 +310 which is much easier 
+and quicker . We now know that 273 .34+314 .37 should equal approximately 580 . 
+o Compatible Numbers: 527 ×12=? If we increase 527 to 530 and  decrease 12 to 10, we have 
+530 ×10 = 5300 . A much easier calculation . 
+o Cluster Estimation:  357 +342 +370 +327 = ? All four numbers are clustered around 350, some 
+larger, some smaller. So we can estimate using 350 ×4 =1400 . 
+Example Problems:  
+1. Round the following to 2 decimal places:  
+a. 22.6783    gives    22.68  
+b. 34.6332    gives    34.63  
+c. 29.9999    gives    30.00  
+2. Estimate the following:  
+a. 22.5684 + 57.355 ≈ 23 + 57 = 80  
+b. 357 ÷ 19 ≈ 360  ÷20= 18 
+c. 27+36+22+31 ≈= 30 × 4 = 120  
+2. Your Turn:  
+A. Round the following to 3 decimal places:  
+a. 34.5994 ≈ 
+b. 56.6734 ≈ 
+ B. Estimate the following:  
+a. 34 x 62 ≈  
+b. 35.9987 – 12.76 ≈ 
+c. 35 + 32 + 27 + 25 ≈  
+Watch these short Khan Academy 
+videos for further explanation:  
+“Rounding decimals: to the nearest tenth”  
+https://www.khanac ademy.org/math/pre- algebra/decimals -pre-alg/dec -
+rounding -estimation -pre-alg/v/rounding -decimals  
+ “Multiplication estimation example”  
+https://www.khanacademy.org/math/arithmetic/multiplication -
+division/multi_digit_multiplication/v/multiplying -whole- numbers- and-
+applications- 4 
+
+
+Text from page 8:
+Page 6 of 40 
+ 3. Order of Operations  
+The order of operations matters when solving equations. Look at the example: 3+6 × 2= ? 
+ 
+If I do the addition, then the multiplication, the answer would be: 9 × 2=18 
+If I do the multiplication, then the addition, the answer would be: 3+12=15 
+There can not be two answers to the same question. A rule is required to make sure everyone uses the same order.  
+ 
+There is a Calculation Priority Sequence  to follow. Different countries, different states, even different teachers use 
+a different mnemonic  to help you reme mber the order of operations , but two common version s are  BOMDAS and 
+BIMDAS which stand for:  
+Brackets     {[(        )]}  
+Other  or Indices                  𝑥𝑥2,sin𝑥𝑥,ln𝑥𝑥,𝑒𝑒𝑒𝑒𝑒𝑒 
+Multiplication or Division   × 𝑜𝑜𝑜𝑜 ÷ 
+Addition or Subtraction   + or -  
+The R ules:  
+1. Follow the order ( BIMDAS, BOMDAS  or BODMAS ) 
+2. If two operations are of the same level, you work from left to right.  E.g. (× 𝑜𝑜𝑜𝑜 ÷) 𝑜𝑜𝑜𝑜 (+ 𝑜𝑜𝑜𝑜 −) 
+3. If there are multiple brackets, work from the inside set of brackets outwards.  {[(   )]} 
+Example Problems:  
+1. Solve:      5+7×2+52= 
+Step 1: 52 has the highest priority so:  5+7×2+25= 
+Step 2: 7 × 2 has the next priority so:  5+14+25= 
+Step 3: only addition left , thus left to right:  19+25=44 
+                                                                              ∴5+7×2+52=44 
+ 
+2.  Solve:    [(3+7)× 6−3]×7= 
+                        [10× 6−3]×7= 
+                     [ 60−3]×7= 
+                                                                              57 ×7=399 
+                                               ∴[(3+7)× 6−3]×7=399 
+3. Yo ur Turn:  
+a) 4 × (5+2)+6−12÷4= 
+b) 3 × 7+6−2+4÷2+7= c) 2.4−0.8×5+8÷2×6= 
+d) (2.4−0.8)×5+8×6÷2= 
+Watch this short Khan Academy video for further explanation:  
+“Introduction to order of operations”   
+https://www.khanacademy.org/math/algebra -basics/core -algebra -foundations/algebra -foundations -order -of-
+operations/v/introduction -to-order -of-operations   
+
+
+Text from page 9:
+Page 7 of 40 
+ 
+4. Naming Fr actions  
+• Fractions are representations of “ even parts of a whole.”  
+• A key concept is that division and fractions are linked. Even the division symbol ( ÷ ) is a fraction . 
+1
+ 2  𝑖𝑖𝑖𝑖 𝑒𝑒ℎ𝑒𝑒 𝑖𝑖𝑎𝑎𝑠𝑠𝑒𝑒 𝑎𝑎𝑖𝑖 1 𝑎𝑎𝑖𝑖𝑑𝑑𝑖𝑖𝑎𝑎𝑒𝑒𝑎𝑎  𝑏𝑏𝑏𝑏 2 𝑤𝑤ℎ𝑖𝑖𝑒𝑒ℎ 𝑖𝑖𝑖𝑖 0.5.  
+• A fraction is made up of two main parts:  3
+4   →  𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁
+𝐷𝐷𝑁𝑁𝐷𝐷𝑁𝑁𝑁𝑁𝐷𝐷𝐷𝐷𝑁𝑁𝑁𝑁𝑁𝑁𝑁𝑁 
+The denominator  represents how many  parts of the whole there are, and the numerator  indicates  how many of 
+the parts are of interest.   
+For instance,  5
+8 of a pie means that we have cut a pie into 8 even  pieces and we are interested in the five that are 
+left on the plate.   
+ 
+ 
+ 
+• Fractions should always be displayed in their simple st form. For example,  6
+12 is written as 1
+2 
+Strategies for convert ing fractions in to their simplest form will be covered over the next sections.  
+• A proper fraction  has a numerator smaller than the denominator, for example,   3
+4 
+This representation shows that we have four equal parts and have shaded three of them, 
+therefore   3
+4 
+ 
+ 
+• An improper fraction has a numerator larger than the denominator , for example,  4
+3  
+ Here we have two ‘wholes’ divided into three equal parts.  
+Three parts of ‘3 equal parts’ makes a ‘whole’ plus one 
+more part makes ‘ one whole and one third’ or ‘ four thirds’  
+• Therefore,  a mixed fraction  has a whole number and a fraction , 
+for example, 11
+3 
+4. Your Turn:  
+Name the fractions :  
+a) What fraction of the large square is black?  
+b) What fraction of the large square has vertical lines?  
+c) What fraction of the large square has diagonal lines?  
+d) What fraction of the large square has wavy lines?  
+Watch this short Khan Academy video for further explanation: 
+“Introduction to fractions”   
+https://www.khanacademy.org/math/arithmetic/fractions/understanding_fractions/v/introduction- to-fractions      
+    
+    
+    
+    
+        
+    
+    
+
+
+Text from page 10:
+Page 8 of 40 
+ 5. Equivalent Fractions 
+Equivalence is a concept that is easy to understand when a fraction wall is used.  
+ 
+As you can see , each row has been  split into different fractions:  top row into 2 halves, bottom row 12 twelfths.  An 
+equivalent fraction splits the row at the same place.  Therefore:  
+1
+2=2
+4=3
+6=4
+8=5
+10=6
+12 
+The more pieces I split the row into (denominator), the more pieces I will need (numerator).  
+Mathematically, whatever I do to the numerator (multiply or d ivide), I must also do to the denominator  and vice 
+versa, whatever I do to the denominator I must do to the numerator. Take  2
+3 as an example. If I multiply the 
+numerator by 4, t hen I must  multiply the denominator by 4  to create an equivalent fraction:  
+2 × 4
+3 × 4 = 8
+12 
+Example problems: Use what you have understood about equivalent fractions to find the missing values in these 
+fraction pairs.  
+1. 3
+5= 20     Answer: The denominator was multiplied by 4. (20 ÷ 5 =4)  
+                                                So the numerator must by multiplied by 4.           ∴ 3×4
+5×4=12
+20 
+2. 27
+81=9   Answer: The numerator was divided by 3. (27 ÷ 9 =3)  
+    So the denominator must be divided by 3.  ∴27÷3
+81÷3=9
+27 
+5. Your Turn:  
+a)    2
+3=9 
+b)    5
+7=45 
+c)    9
+10=30 
+d)    52=4
+13  
+Return to Your Turn Activity 4.  
+e) What fraction of the large square has dots?  
+f)  What fraction of the large square has horizontal 
+lines ? 
+Watch this short Khan Academy video for further explanation:  
+“Equivalent fractions ”  
+https://www.khanacademy.org/math/arithmetic/fractions/Equivalent_fractions/v/equivalent -fractions  
+
+
+Text from page 11:
+Page 9 of 40 
+ 
+6. Converting Mixed Numbers to Improper 
+Fractions
+A mixed number  is a way of e xpressing quantities greater than 1.  A mixed number represents the number of 
+wholes  and remaining parts of a whole that you have , while an improper fraction  represents  how many parts  you 
+have.  The diagram below illustrates the difference between a mixed number and an improper fraction, using a 
+quantity of car oil as an example . On the left, we use a mixed number to represent 3 whole litres and 1 half litre. 
+We write this mixed number as 3 ½. On the right, we use an improper fraction to represent 7 half litres. We write 
+this improper fraction as  7
+2. 
+ 
+ 
+                                                                             Is the same as  
+ 
+  31
+2=7 ℎ𝑎𝑎𝑎𝑎𝑑𝑑𝑒𝑒𝑖𝑖 =7
+2 
+You are more likely to encounter mixed numbers than improper fractions in everyday  language . For example,  you 
+are more likely to say , ‘my car requires 3 ½ litres of oil ,’ rather than, ‘m y car requires 7
+2 litres of oil. ’ 
+It is much easier to m ultiply  or divid e fractions when they are in improper form. As such, mixed numbers are 
+usually converted to improper fractions before they are used in calculations. To co nvert from a mixed number to 
+an improper fraction, multiply the whole number by the denominator then add the numerator. This total then 
+becomes th e new numerator  which  is place d over the original denominator.   For example:  
+Convert  31
+2 into  an improper  fraction .   
+ working :    3(𝑤𝑤ℎ𝑜𝑜𝑎𝑎𝑒𝑒 𝑎𝑎𝑛𝑛𝑠𝑠𝑏𝑏𝑒𝑒𝑜𝑜 )×2(𝑎𝑎𝑒𝑒𝑎𝑎𝑜𝑜𝑠𝑠𝑖𝑖𝑎𝑎𝑎𝑎𝑒𝑒𝑜𝑜𝑜𝑜 )+1(𝑎𝑎𝑛𝑛𝑠𝑠𝑒𝑒𝑜𝑜𝑎𝑎𝑒𝑒𝑜𝑜𝑜𝑜 )=7  
+Therefore ,𝑒𝑒ℎ𝑒𝑒 𝑖𝑖𝑠𝑠𝑖𝑖𝑜𝑜𝑜𝑜𝑖𝑖𝑒𝑒𝑜𝑜 𝑓𝑓𝑜𝑜𝑎𝑎𝑒𝑒𝑒𝑒𝑖𝑖𝑜𝑜𝑎𝑎  𝑖𝑖𝑖𝑖 7
+2  
+Example problems: 
+1. 22
+3=8
+3 𝑁𝑁𝑜𝑜𝑒𝑒𝑒𝑒 : (2×3+2=8)   
+ 
+2. 23
+7=17
+7 𝑁𝑁𝑜𝑜𝑒𝑒𝑒𝑒 :(2×7+3=17) 
+6. Your Turn:  
+Convert these mixed numbers to improper fractions.  
+a)   41
+2=   c)      73
+5= 
+ 
+b)    51
+3=  d)      21
+8= 
+
+Text from page 12:
+Page 10 of 40 
+7.Converting Improper Fractions to M ixed
+N
+umbers
+While improper fractions are  good for calculations, they are rarely used in everyday situations . For example, p eople 
+do not wear a size 23
+2  shoe; instead they wear a size 111
+2 shoe.  
+=𝑖𝑖 𝑒𝑒𝑑𝑑𝑒𝑒𝑎𝑎  ℎ𝑎𝑎 𝑎𝑎 𝑑𝑑𝑒𝑒𝑖𝑖 =7
+2  
+To convert to an improper fraction we need to work out how many whole numbers we have. Here we reverse the 
+procedure from the previous section. W e can see that 6 of the halves combine to form 3 wholes ; with a half left 
+over.  
+= 31
+2 
+So to work this symbolically as a mathematical calculation we simply divide the numerator by the denominator.  
+Whatever the remainder is becomes the new numerator .  
+Using a worked example of the diagram above:  Convert  7
+2 
+7 ÷ 2 = 312I f I have three whole numbers, the n I also have six halves and we have one half remaining. ∴ 72= 312 
+That was an easy one.  Another example: 
+Convert  17
+5into  a 𝑠𝑠 𝑖𝑖𝑥𝑥𝑒𝑒𝑎𝑎  𝑓𝑓𝑜𝑜 𝑎𝑎𝑒𝑒𝑒𝑒𝑖𝑖𝑜𝑜𝑎𝑎 . 
+ w
+orking : 17÷ 5 = the whole  number  is 3 with  some  remaining . 
+ If I have  3 whole  numbers  that  is 15 𝑓𝑓𝑖𝑖𝑓𝑓𝑒𝑒ℎ𝑖𝑖.(3 × 5 ) I m
+ust now  have  2 𝑓𝑓𝑖𝑖𝑓𝑓𝑒𝑒ℎ𝑖𝑖 r
+emaining . (17−15) 
+T herefore, I have  32
+5   
+Example problems : Convert the improper fractions to mixed numbers:  
+1. 27
+6= 436= 412
+𝑁𝑁𝑜𝑜𝑒𝑒𝑒𝑒:(2 7 ÷ 6 = 4.5 ) 𝑖𝑖 𝑜𝑜  (4 × 6 = 2 4) 𝑤𝑤𝑖𝑖𝑒𝑒ℎ (2 7−24= 3) remaining. Don’t forget equivalent fractions. 
+2. 83= 223 𝑁𝑁𝑜𝑜𝑒𝑒𝑒𝑒:(8 ÷ 3 = 2 .67) 𝑖𝑖 𝑜𝑜 (2 × 3 = 6 ) 𝑤𝑤𝑖𝑖𝑒𝑒ℎ (8−6 = 2 ) remaining. 
+7.Your Turn:
+Convert the following improper fractions to mixed numbers:
+a) 75= c) 53
+9= 
+b) 12
+9= d)   27
+7= 
+Watch th is short Khan A cademy v ideo for f urther explanation:  
+“Mixed numbers and improper  fractions”  (converting both ways) 
+https://www.khanacademy.org/math/cc-fourth-grade-math/imp-fractions-2/imp-mixed-numbers/v/changing-a-mixed-number-to-an-
+improper-fraction
+
+
+Text from page 13:
+Page 11 of 40 
+ 8. Converting Decimals into fractions 
+Decimals are  an almost universal method of displaying data, particularly given that it is easier to enter decimals, 
+rather than fractions, into  computer s.  But fractions can be more accurate. For example,  1
+3 is not 0.33 it is 0.33̇ 
+The method used to convert decimals into fractions is bas ed on the notion of place value . The place value of the 
+last digit in the decimal determine s the denominator: tenths, hundredths, thousandths, and so on…  
+Example problems: 
+1. 0.5 has 5 in the tenths column. Therefore, 0.5 is 5
+10=1
+2  (simplified to an equivalent fraction).  
+2. 0.375 has the 5 in the thousandth column. Therefore , 0.375 is 375
+1000=3
+8  
+3. 1.25 has 5 in the hundredths column and you have  125
+100=11
+4 
+The hardest part is conver ting to the lowest equivalent fraction. I f you have a scientific calculator,  you can use the 
+fraction button.  This button looks different on different calculators so read your manual if unsure.  
+If we take 375
+1000 from example 2 above:  
+Enter 375 then                   followed by 1000 press = and answer shows as 3
+8.  
+NOTE: The c alculator does not  work for rounded decimals ; especially  thirds. For example, 0. 333  ≈ 1
+3 
+The table below lists some commonly encountered fractions expressed in their decimal form:  
+Decimal  Fraction  
+0.125  1
+8 
+0.25  1
+4 
+0.33333  1
+3 
+0.375  3
+8 
+0.5 1
+2 
+0.6666 7 2
+3 
+.75 3
+4 
+8. Your Turn:  
+(No Calculator first, then check .) 
+a)    0.65 =        
+b)    2.666 =      
+c)    0.54 =       
+
+
+Text from page 14:
+Page 12 of 40 
+ d)    3.14 =       
+9. Converting Fractions into Decimals 
+Converting fractions into decimals is based on place value. For example, applying what you have understood about 
+equivalent fractions, we can easily convert 2
+5 into a decimal. First we need to convert to a denominator that has a 
+10 base.  Let’s convert 2
+5 into tenths →2×2
+5×2= 4
+10 ∴ we can say  that two fifths is the same as four tenths : 0.4  
+Converting a fraction  to decimal form  is a simple procedure because we simply use the divide key  on the calculator.  
+Note: If you have a mixed number, convert it to an improper fraction  before dividing it  on your calculator.  
+Example problems: 
+1. 2
+3=2÷3=0.66666666666 … ≈0.67 
+2. 3
+8=3÷8=0.375 
+3. 17
+3=17÷3=5.6666666 … ≈ 5.67 
+4. 35
+9=(27+5)÷9= 3.555555556 … ≈3.56 
+9. Your Turn: (Round your answer to t hree decimal places where appropriate)  
+a) 17
+23= 
+b) 5
+72= c) 562
+3= 
+d) 29
+5= 
+Watch this short Khan Academy video for further explanation:  
+“Converting fractions to decimals ”  (and vice versa)  
+https://www.khanacademy.org/math/pre -algebra/decimals -pre-alg/decimal -to-fraction -pre-alg/v/converting -fractions -to-decimals  
+ 
+10. Fraction Addition and Subtraction 
+ 
+Adding and subtracting fractions draws on  the concept of equivalent fractions. The golden rule is that you can only 
+add and subtract fractions  if they have the same denominator , for example,  1
+3+1
+3=2
+3 .  
+However, i f two fractions do not have the same denominator, we must use equivalent fractions to find a  “common 
+denominator ” before  they can be added together.   
+For instance, we cannot simply add  1
+4+1
+2  because these fractions have different denominators  (4 and 2) . As such, 
+arriving at an answer of  2
+6 (two sixths)  would be incorrect. Before these  fractions  can be added together , they must 
+both have the same de nominator.  
+
+
+Text from page 15:
+Page 13 of 40 
+ From the image at right, we can see that we have three quarters  of a whole cake. So to work this abstractly, we 
+need to decide on a common denominator, 4 , which is  the lowest common 
+denominator . Now use the equivalent fractions concept to change  1
+2 𝑖𝑖𝑎𝑎𝑒𝑒𝑜𝑜 2
+4 by 
+multiplying both the n umerator and denominator by two: 1
+2 x 2
+2 = 2
+4 
+Now that the denominators are the same, the addition can be carried out:   
+1
+4+2
+4=3
+4 
+Let’s try another:  
+ 1
+3+1
+2   We ca nnot simply add these fractions; again we need to find the lowest common denominator.  The easiest 
+way to do this is to multiply the denominators:   1
+3 𝑎𝑎𝑎𝑎𝑎𝑎  1
+2  (2 x 3  = 6). Therefore,  both fractions can have a 
+denominator of 6 , yet we need to change the numerator. The next step is to convert both fractions into sixths as an 
+equivalent form . How many sixths is one t hird? 1
+3=2
+6  �1
+3×2
+2=2
+6� And how many sixths is one half? 1
+2=
+3
+6  �1
+2×3
+3=3
+6� 
+ Therefore:   1
+3+1
+2=2
+6+3
+6=5
+6 
+With practis e, a pattern forms , as is illustrated in the next example:  
+1
+3+2
+5= (1×5)+(2×3)
+(3×5)= 5+6
+15=11
+15 
+In the example above, the lowest common denominator is found by multiplying 3 and 5, and then  the numerators 
+are multiplied by 5 and 3 respectively.  
+Use the following problems to reinforce the pattern.  
+10. Your Turn:  
+a)    1
+3+2
+5= 
+ 
+b)    3
+4+2
+7=  
+ 
+ 
+Subtraction is the same procedure but with a negative symbol: 
+2
+3−1
+4= (2×4)−(1×3)
+(3×4) 
+= 8−3
+12 
+=5
+12 
+10. (continued)  Your Turn: 
+e)  9
+12−1
+3= 
+f)   1
+3−1
+2=  
+
+
+Text from page 16:
+Page 14 of 40 
+ Watch this short Khan Academy video for further explanation:  
+“Adding and subtraction fractions ”  
+https://www.khanacademy.org/math/arithmetic/fractions/fractions -unlike -denom/v/adding -and-subtracting -fractions  
+ 
+11. Fraction Mult iplication and Division 
+Compared to addition and subtraction, multiplication and division of fractions is easy to do , but sometimes a 
+challenge to understand  how and why the procedure works  
+mathematically . For example , imagine  I have 1
+2 of a pie  and I want to 
+share it between 2 people.  Each  person gets a quarter  of the pi e.  
+Mathematically, this example would be written as:         1
+2×1
+2=1
+4. 
+Remember that fractions and division are related ; in this way, multiplying by a half is the same as dividing by two.   
+So 1
+2 (two people to share) of 1
+2 (the amount of pi e) is 1
+4 (the amount each person will get) .  
+But what if the question wa s more challenging: 2
+3×7
+16 =? This problem is no t as easy as splitting pies.  
+A mathematical strategy to use is: “M ultipl y the numerators then multiply the denominators”  
+Therefore,  2
+3×7
+16=(2×7)
+(3×16)=14
+48=7
+24 
+However, we can also apply a cancel out method – which you may recall from school. The rule you may recall is, 
+‘What we do to one side, we must do to the other. ’ 
+Thus , in the above example , we could simplify first:   2
+3×7
+16= ? The first thing we do is look to see if there 
+are any common multiples. Here we can see that 2 is a multiple of 16, which means that we can divide top 
+and bottom by 2 :      2÷2
+3×7
+16÷2=1
+3×7
+8= 1×7
+3×8=7
+24 
+Example Multiplication Problems: 
+1. 4
+9×3
+4=(4×3)
+(9×4)=12
+36=1
+3 
+Have a go at simplifying first and then perform the multiplication.   
+ 
+ 
+ 
+4÷4
+9÷3×3÷3
+4÷4=(1×1)
+(3×1)=1
+3    
+ 
+2. 24
+9×33
+5=22
+9×18
+5=(18×22)
+(9×5)=396
+45=396 ÷45=8.8 
+ 
+               22
+9÷9×18÷9
+5=22×2
+1×5 = 44
+5 so 44÷5=84
+5 
+ 
+
+
+Text from page 17:
+Page 15 of 40 
+ Watch this short Khan Academy video for further explanation:  
+“Multiplying negative and positive fractions ”  
+https://www.khanacademy.org/math/cc -seventh -grade -math/cc -7th-fractions -decimals/cc- 7th-mult -div-frac/v/multiplying -
+negative -and- positive- fractions  
+ 
+Division of fractions seems odd , but it is a simple concept:  
+You may recall the expression ‘invert and multiply ’ which means we flip the fraction; we switch the numerator and 
+the denominator. Hence,  ÷1
+2 𝑖𝑖𝑖𝑖 𝑒𝑒ℎ𝑒𝑒 𝑖𝑖𝑎𝑎𝑠𝑠𝑒𝑒 𝑎𝑎𝑖𝑖 ×2
+1   
+If the sign is swapped to its opposite, the fraction is flipped upside down , this ‘flipped’ fraction  is referred to as the 
+reciprocal  of the original fraction.   
+Therefore, 2
+3÷1
+2 is the same as  2
+3×2
+1= (2×2)
+(3×1)=4
+3=11
+3   Note: dividing by half doubled the answer.  
+Example Division Problems: 
+1. 2
+3÷3
+5=2
+3×5
+3=(2×5)
+(3×3)=10
+9=11
+9 
+ 
+2. 33
+4÷22
+3=15
+4÷8
+3=15
+4×3
+8=(15×3)
+(4×8)=45
+32=113
+32 
+ 
+Watch this short Khan Academy video for further explanation:  
+ “Dividing fractions example ”  
+https://www.khanacademy.org/math/arithmetic/fractions/div -fractions -fractions/v/another -dividing -fractions -example 
+ 
+11. Your Turn:  
+a) Find the reciprocal of 22
+5  
+ 
+ 
+b)   2
+3×7
+13= 
+ 
+ 
+c)    11
+6×2
+9= 
+ 
+ 
+d) 8×3
+4×5
+6×11
+2= 
+ 
+e)    3
+7÷2
+5= 
+  
+f)    22
+5÷38
+9= 
+ 
+g) (−25)÷(−5)
+4−2×7= 
+ 
+ 
+h) −7
+2 ÷ −4
+9=  
+ 
+ 
+i) If we multiply  8 and the reciprocal  of 2,  
+        what  do we get? 
+ 
+j) What  is 40 mulitplied  by 0.2?  
+(use your  knowledge  of fractions  to solve )
+
+
+Text from page 18:
+Page 16 of 40 
+ 12. Percentage 
+The concept of p ercentage is an extension of the material we have already covered about fractions. To allow 
+comparisons between fractions we need to use the same denominator. As such, all percentages use 100 as the 
+denominator. The word percent or “per cent” means per 100 . Therefore,  27% is 27
+100 .  
+To use percentage in a calculation , the simple mathematical procedure is modelled below:   
+For example, 25% of 40 is 25
+100×40=10  
+Percentages are most commonly used to compare parts of an original. For instance, the phrase ‘ 30% off sale ,’ 
+indicates that whatever  the original price, the new price is 30% less. However, p ercentages are not often as simple 
+as, for example,  23% of 60. Percentages are commonly used as part of a more complex question.  Often the 
+question s might be,  “How much is left ?” or “How much was the original? ” 
+Example problems: 
+A. An advertisement at the chicken shop states that on Tuesday everything is 22% off. If chicken breasts are 
+normally $9.99 per kilo. What is the new per kilo price?  
+Step 1: SIMPLE PERCENTAGE:  
+ 22
+100×9.99=2.20 
+Step 2: DIFFERENCE: Since the price is cheaper by  22%, $2.20 is subtracte d from the original: 9. 99 – 2.20 = $7.79 
+ 
+B. For the new financial year you have been given an automatic 3.5% pay rise. If you were earning $17.60 per 
+hour what would b e your new rate?  
+Step 1: SIMPLE PERCENTAGE 
+ 3.5
+100×17.6=0.62 
+Step 2: DIFFERENCE: Since it is a 3.5% pay RISE , $0.62 is added to the original: 17.60 + 0.62 = $18.22 
+C. A new dress is now $237  reduced from  $410 . What is the percentage difference?  As you can see, the 
+problem is in reverse, so we approach it in reverse . 
+Step 1: DIFFERENCE: Since it is a discount the difference between the two is the discount.  Thus we need to subtract 
+$237.00 from $410 to see what the discount was that we received. $ 410  –$237  =$173 
+Step 2: SIMPLE PERCENTAGE:  now we need to calculate what percentage of $410 was $173 , and so we can use this 
+equation:  𝑥𝑥
+100 ×410 =173   
+ We can rearrange the problem in steps:  𝑥𝑥
+100 ×410÷410=173÷410  this step involved dividing 410 from 
+both sides  to get 𝑥𝑥
+100=173
+410     Next we work to get the 𝑥𝑥  on its own , so we multiply both sides by 100.  
+                             Now we have 𝑥𝑥 =173
+410×100
+1   Next we solve, so 0. 42 multipl ied by 100, ∴ 0.42 ×100 and we get 42 . 
+                                                            ∴ The percentage difference  was 42%.  
+                             Let’s check: 42% of $410 is $173, $410 - $173 = $237, the cost of the dress was $237.00  .  
+ 
+ 
+ 
+ 12. Your Turn:  
+a) GST adds 10% to the price o f most things. How much does a can of soft drink cost if it is 80c before GST?  
+b) A Computer screen was $299 but is on special for $249. What is the percentage discount?  
+c) Which of the following is the largest?  3
+5 𝑜𝑜𝑜𝑜 16
+25 𝑜𝑜𝑜𝑜 0.065  𝑜𝑜𝑜𝑜 63% ? (Convert to percentages)  
+  
+
+Text from page 19:
+Page 17 of 40 
+ 12 (continued). Activity: What do I need to get 
+on the final exam???  
+ 
+ 
+ Grade (%)  Weight (%)  
+Assessment 1   30.0%    10%  
+Assessment 2   61.0%    15%  
+Assessment 3   73.2%    30%  
+Assessment 4   51.2%     5% 
+Final Exam  
+     40%  
+   
+Final Grade  Overall Percentage Needed  
+High Distinction  100 - 85%  
+Distinction  84 - 75%  
+Credit  74 - 65%  
+Pass  64 - 50%  
+Fail 49 - 0% 
+ 
+1. How much does each of my assessments contribute to my overall percentage, 
+which determines my final grade?  
+ 
+ Calculation  Overall %  
+Assessment 1  This assessment contributes a maximum of 10% to my 
+overall percentage and I scored 30.0% of those 10%, so 
+30.0 ÷ 100 x 10 = 3             𝟑𝟑𝟑𝟑
+𝟏𝟏𝟑𝟑𝟑𝟑×𝟏𝟏𝟑𝟑
+𝟏𝟏=𝟑𝟑 
+  
+ 
+3.0 %  
+Assessment 2  This assessment contributes a maximum of 15% to my 
+overall percentage and I scored 61.0% of those 15%, so  
+ 
+ 
+  
+Assessment 3   
+ 
+ 
+  
+Assessment 4   
+ 
+ 
+  
+                                                                                                                          Total   
+        Check: Your total should be 36.67% 
+
+
+Text from page 20:
+Page 18 of 40 
+  
+ 
+2. What do I need to score on the final exam to get a P, C, or a D? Can I still get a HD?  
+ Calculation  Required score  
+P For a Pass, I need to get at least 50% overall. I already have 36.67%, so the 
+final exam needs to contribute 50 - 36.67 = 13.33  
+The exam contributes a maximum of 40% to my overall grade, but I only 
+need to get 13.33%, so how many percent of 40% is 13.33%?  
+? ÷ 100 x 40 = 13.33  
+                   ? = 13.33 ÷ 40% x 100  
+                   ? = 33.33  
+ 
+ 
+ 
+ 
+ 
+33.33%  
+C For a Credit, I need to get at least 65% overall. I already have 36.67%, so 
+the final exam needs to contribute:  
+ 
+ 
+The exam contributes a maximum of 40% to my overall grade, but I only 
+need to get                                    , so:  
+ 
+ 
+ 
+  
+D  
+ 
+ 
+ 
+ 
+ 
+  
+HD  
+ 
+ 
+ 
+ 
+  
+ 
+Note: In most subjects, you need to score a certain percentage on the exam to pass the subject 
+regardless of your previous results. In some cases, this may be up to 50%. Check your subject 
+outline!  
+ 
+ 
+Watch this short Khan Academy video for further explanation:  
+“Percent word problem ”  
+https://www.khanacademy.org/math/pre -algebra/decimals -pre-alg/percent -intro -pre-alg/v/percent -word -problems   
+
+
+Text from page 21:
+Page 19 of 40 
+ 13. Ratio  
+Understanding r atio is very closely related to fractions . With ratio , comparisons are made between equal sized 
+parts/units. The r atio symbol  is ‘ : ’ and it is used to separate the quantities being compared. For example, 1:3 
+means 1 unit to 3 units, and the units are the  same size . Whilst a ratio can be expressed as a fraction , the ratio 1:3 
+is not the same as one third. For example , let’s look at the rectangle below which has been divided into four equal 
+parts.  
+ The rectangle is 1 part grey to 3 parts white. Ratio is 1: 3 
+ The rectangle is 1 part grey and a total of 4 parts. Fraction is 1
+4 
+An example to begin:  My 2 stroke mower requires petrol and oil mixed to a ratio of 1:25. This means that I add one  
+part oil to 25 parts petrol.  No matter what unit of measure is used , the ratio must stay the same.  So if I add 
+200mls of oil to my tin, I add 200mls x 25 = 5000mls of petrol. Total volume = 5200mls (= to 5.2 litres). Ratio 
+relationships are multiplicative.  
+ Mathematically:  1 : 25  is the same as  
+    2 : 50  is the same a s 
+    100 : 2500 is the same as  
+    200 : 5000 and so on   
+Example Problem: 
+Making biscuits uses proportion. My recipe states that to make 50 biscuits, I need :  
+5 cups of flour  
+½ a cup of sugar  
+1 tin of condensed milk  
+150g of choc chips.  
+ 
+How much of each ingredient will I need if I require 150 biscuits?  
+To calculate we need to find the ratio.  If the recipe makes 50 and we need 150 we triple the recipe  
+(150  ÷50 = 3 )  
+Therefore :  5 x 3 cups of flour = 15 cups,  
+ ½ x 3 = 1 ½ cups of sugar  
+ 1 x 3 =3 tins of condensed milk and  
+ 150g x 3 = 450g of choc chips  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13. Your Turn:  
+Bread is a classic ratio/proportion problem.  Standard white loaf recipe is:  
+100 parts flour  
+65 parts warm water  
+2 parts salt  
+1.5 parts yeast  
+How much flour is needed i f: 
+a) I use 50 grams of salt?  
+ 
+b) I use 13 cups of water?  
+
+Text from page 22:
+Page 20 of 40 
+  
+
+Text from page 23:
+Page 21 of 40 
+ 13. Your Turn (continued) :  
+ 
+c) A tree shadow is 13m. A stick in the same vicinity is 30cm and casts a shadow of 50cm. How tall is the tree?  
+ 
+ 
+d) A patient is prescribed 150mg of soluble aspirin. We only have 300mg tablets on hand. How many tablets 
+should be given?  
+ 
+ 
+e) A solution contains fluoxetine 20mg/5mL. How many milligrams of fluoxetine are in 40mL of solution?  
+ 
+ 
+f) A stock has the strength of 5000units per mL. What volume must be drawn up into an  injection to give 
+6500units?  
+ 
+ 
+g) An intravenous line has been inserted in a patient. Fluid is being delivered at a rate of 42mL/h. How much 
+fluid will the patient receive in  
+a. 2 hours?  
+b. 8 hours?  
+c. 12 hours?  
+ 
+ 
+h) Penicillin syrup contains 200mg of penicillin in 5mL of water. If a patient requires 300mg of penicillin how 
+much water will be required to make the syrup?  
+ 
+Watch this short Khan Academy video for further explanation:  
+“Solve a proportion with unknown v ariable word problem ”  
+https://www.khanacademy.org/math/cc -seventh -grade -math/cc -7th-ratio -proportion/cc- 7th-constructing -proportions/v/find -an-
+unknown- in-a-proportion -2       
+ 
+ Solve by applying what you have understood so far .  
+i) 3×(9+5)−4×6= 
+ 
+j) 100 ÷5−3×4+2�9+(−1)�= 
+ 
+k) 12−3−7
+4−3×2= 
+ 
+l) (−4)−6×(−3)= 
+ m) −(−3)2 −4×1= 
+ 
+n) (−3)+(−9)
+(−3)−(−9)= 
+ 
+o) 100−2×(−7)+3= 
+ 
+p) (−30)−2×(−5)
+1+(−13)×(−3) =
+
+
+Text from page 24:
+Page 22 of 40 14.A verages
+When examining a collection of data, it is most common to find a measure of the “middle” value.  The three 
+common measures of central tendency  are: 
+•Mean
+•M
+edian
+•M
+ode
+Me
+an:  The most commonly used measure ; often referred to as the ‘average ’. It is calculated by adding up all of the 
+data and dividing by how many pieces of data you had.  For example, the average temperature over one month might be calculated using mean.  We wou ld add up the temperature for each day and then divide the result by the 
+number of days for the month. This would then give us a ‘mean’ average for temperature for that month. Other 
+factors may be considered too when collecting the type of data required, such as the time of day, the highest 
+temperature or the lowest temperature.  
+The formula for mean is :   𝑥𝑥̅=  𝛴𝛴𝑥𝑥
+𝐷𝐷 
+•𝑥𝑥̅ is called “ 𝑥𝑥 bar” and represents mean.
+•𝛴𝛴 is called “sigma” and means sum or add up
+•𝑥𝑥 is the individual pieces of data or observations
+•𝑎𝑎 is how many pieces of  data  or the total number of observations
+•Hence, (𝑥𝑥�=  𝛴𝛴𝑥𝑥
+𝑎𝑎 )  Tℎ𝑒𝑒 ℎ𝑖𝑖𝑖𝑖ℎ𝑒𝑒𝑖𝑖 𝑒𝑒 𝑒𝑒 𝑒𝑒𝑠𝑠𝑖𝑖  𝑓𝑓𝑜𝑜𝑜𝑜 𝐽𝐽𝑛𝑛 𝑎𝑎𝑏𝑏 𝑠𝑠 𝑒𝑒𝑎𝑎𝑎𝑎 =𝑁𝑁ℎ𝑁𝑁 𝑠𝑠𝑁𝑁𝑁𝑁 𝑁𝑁 𝑜𝑜 𝑁𝑁ℎ𝑁𝑁 ℎ𝐷𝐷 𝑖𝑖ℎ𝑁𝑁𝑠𝑠 𝑁𝑁 𝑁𝑁 𝑁𝑁𝑁𝑁𝑡𝑡 𝑜𝑜 𝑁𝑁𝑁𝑁 𝑁𝑁𝑁𝑁𝑒𝑒ℎ 𝑑𝑑𝑁𝑁 𝑑𝑑
+𝑁𝑁ℎ𝑁𝑁 𝐷𝐷𝑁𝑁𝑁𝑁𝑛𝑛𝑁𝑁
+𝑁𝑁 𝑁𝑁
+𝑜𝑜 𝑑𝑑𝑁𝑁
+𝑑𝑑𝑠𝑠 𝐷𝐷𝐷𝐷 𝐽𝐽𝑁𝑁𝐽𝐽
+𝑑𝑑 
+Median:  The middle number when the data is arranged in order  from lowest to highest . One way to remember 
+this is to think about the ‘median strip’ in the road. The median is a measure of central tendency often used to 
+discuss the average value of real- estate in certain districts.  For example, seven houses sold in a suburb in July, for 
+the following prices: $450,000; $500,000; $420,000; $485,000; $445,000; $95 0,000; $425,000. We arrange these 
+figures in order and then take the middle  figure . This is often a more accurate representation than a mean average 
+because the figures at the high or low end may be significantly different, thereby affecting the end result. In this example the median average would be $450, 000; whereas the mean average would be  approxim ately  
+$530,000 �
+𝑥𝑥�=  𝛴𝛴𝑥𝑥
+𝑎𝑎�; quite a difference. 
+Mode: The most common number.  We can have more than one mode in a data set. For example, a bimodal  data 
+set would have two modes. Mode is useful in situations where  identifying  the most common number is important 
+in decision -making. For example, to purchase chairs  for a classroom , the most common student height  would be 
+used.  
+14. Your Turn
+The following is a data set that records one player’s point score in seven  consecutive games of basketball . 
+30, 80, 56, 22 , 22, 36, 39 
+Calculate the three different measures of central tendency : 
+a)Mean:
+b) Median:c)Mode:
+d)Which measure of central tendency  is the most meaningful ?
+
+
+Text from page 25:
+Page 23 of 40 
+ 15. Powers 
+Powers are a method of simplifying e xpressions .  
+• An equation such as :  7+7+7+7+7+7+7+7+7=63  could be simplified as:  7 × 9= 63 
+• Whereas an expression such as: 7×7×7×7×7×7×7×7×7  could be simplified as:  79 
+A simple way to describe powers is to think of them as how many times the base number is multiplied by itself.  
+• 5×5×5×5 is the same as 54 is the same as 625  
+54
+  
+• The most common way to describe th is expression is , ‘five to the 
+power of four .’ 
+• The two most common powers ( 2 & 3) are given names : 32 is 
+referred to as ‘3 squared’  and 33 as ‘3 cubed .’  
+ 
+A negative power , for example 6−3, is the same as   1
+63 : it is the 
+reciprocal . 
+The most common base is 10. It allows very large or small numbers to be abbreviated. This is commonly referred to 
+as scientific notation.  
+• 105 = 10×10×10×10×10 = 100  000. (Note: 100  000 has 5 places (as in place value) behind ‘1’, a 
+way to recognise 10 to the power of five  
+• 10−4= 1
+104 = 10÷10÷10÷10= 0.0001 . (Note: 0.0001  has 4 places (as in place value) in front; one 
+divided by 10 to the power of four)  
+• 3000  = 3×1000  = 3×103  
+• 704 ,500 ,000  = 7.045  × 100 ,000 ,000  = 7.045  ×108  
+• A classic example of the use of scientific notation is evident in the field of 
+chemistry. The number of molecules in 18 grams of water is 
+602 ,000 ,000 ,000 ,000 ,000 ,000 ,000. This is simplified as 6.02 ×1023 which is 
+much easier to read.  
+ 
+15. Your Turn:  
+Write the following in scientific notation:  
+a) 450  
+b) 90000000  
+c) 3.5 
+d) 0.0975  Write the following numbers out in full:  
+e) 3.75×102 
+f) 3.97×101 
+g) 1.875 ×10−1 
+h) (−8.75)×10−3 
+ 
+ 
+Watch this short Khan Academy video for further explanation:  
+“Scientific notation ”  
+https://www.khanacademy.org/math/algebra -basics/core -algebra -foundations/algebra -foundations- scientific -
+notation/v/scientific -notation  
+ • The 5 is called the base .  
+• The 4 is called the exponent, index  or power . 
+
+
+Text from page 26:
+Page 24 of 40 16.P ower  Operations
+•S
+ome basic rules :
+oAny base  number to the power of 1 is equal to the base number , for example:  51= 5
+oAny base num ber to the power of 0 equals 1, so: 40= 1
+oPowers can be simplified if they are multiplied  or divided and have the same  base.
+oPowers of powers are multiplied. Hence, (23)2 =  23× 23= 26
+(2 × 2 × 2
+) ×(2 × 2 × 2 )= 26
+oA negative power indi cates a recipro cal:  3−2=  1
+32 ∴ 1
+9
+•23× 22 =  (2 × 2 × 2 )× (2 × 2 )=  2 × 2 × 2 × 2 × 2 = 25∴32
+•Therefore, when multiplying  powers with the same base , we add the indices. 23 x 22 = 23+2 = 25
+•This also applies to division. 44÷ 42 =  4(4−2 )=  42 ∴16   ( 256 ÷16=16) 
+Example Problems:  
+1.Simplify 65× 63÷ 62× 72+ 64=
+ 65+3−2× 72+ 64= 
+ 66× 72+ 64 
+2.S
+implify 𝑖𝑖5×ℎ4×𝑖𝑖−1=
+ 𝑖𝑖5+(−1) ×ℎ4= 
+𝑖𝑖4×ℎ4 
+16. Your Turn:
+Simplify the following:  
+a)52× 54+ 52=
+b)𝑥𝑥2 ×𝑥𝑥5=
+c)42×𝑒𝑒3 ÷ 42=
+d
+)(54)3 =
+Watch th is short Khan A cademy v ideo for f urther explanation: 
+“Simplifying expressions with exponents”  
+https://www.youtube.com/user/khanacademy
+This is a summary of 
+some index laws for 
+your reference:  
+
+
+Text from page 27:
+Page 25 of 40 
+ 17. Roots  
+Previously we have looked at powers:  For example, 42=16    
+• A root is used to find an unknown base.  For example,  √16=4 
+• In words , √16  is expressed as, ‘ what number multiplied by itself 
+equals 16 ?’ 
+ 
+Like exponents, the two most common roots (2 & 3) are expressed as the 
+‘square root’ and the ‘ cube root ’ respectively .  
+• √64 is expressed as the square root of 64. √273 is expressed as the cube root of 27  (note square root does 
+not have a 2 at the front like the cube root does; the 2 is 
+assumed) . 
+Let’s look at the relationship between 3 and 27. We know that 3 cubed 
+is 27 ( 3×3×3).  
+• So, 3 is the cube root of 27;   ∛27=3 𝑎𝑎𝑎𝑎𝑎𝑎  33=27  
+Now let’s look at negative numbers: 33=27 𝑎𝑎𝑎𝑎𝑎𝑎  (−3)3=−27  
+• Yet, 52=25 and (−5)2=25,∴ −5 is the square root of 25.  
+• Hence, √25=±5 
+ 
+Simplifying roots is difficult  without a calculator. This process requires an estimation of the root of a number . To 
+estimate a root,  it is helpful to know  the common powers. Some common powers are given in the table below:  
+17. Your Turn:  
+Complete the table to the left.  
+ 
+Using the table:  
+       √81=±9 (9 squared is 81)   
+  √56 =?  An example as such requires estimation. Look to 
+the  table, if the square root of 49 is 7, and the square root of 
+64 is 8, then the square root of 56 is between 7 and 8  (7.48) . 
+ 
+ 
+ 
+ 
+A surd is a special root which can not be simplified into a whole number.  For instance , √4=±2, 2 is a whole 
+number ; therefore , √4  is not a surd . However, √3=1.732 ,  1.732 is no t a whole number;  therefore, √3 is a surd.   
+Large roots , such as √56 must be simplified  to determine if they are surds . This process is explained on the next 
+page . 𝑎𝑎2  √  
+12= 1 √1= ±1 
+22=    
+32=    
+42=    
+52=    
+62=    
+72=    
+82=    
+92= 81 √81= ±9 
+102=    
+112=    
+122=    
+132=    squaring
+16
+Square 
+rooting4
+cubing
+27
+Cube 
+rooting3
+
+Text from page 28:
+Page 26 of 40 
+ 18. Root Operations  
+Some basic rules:  
+o √𝑥𝑥 ×�𝑏𝑏= �𝑥𝑥 ×𝑏𝑏             With numbers: √6 × √4= √6×4=√24 
+o √𝑥𝑥2=𝑥𝑥            With numbers:  √52 =5 
+Simplifying roots requires finding factors which are square numbers ( you have done this by finding some factors in 
+the table on the previous page ). Factors are all of the whole numbers that can be divided exactly into a number. 
+For example, the factors of 12 are: 1, 2, 3, 4, 6, 12.  
+ 
+• Let’s s implify  √56 ; 56 has multiple factors and it is good practice to list them all:   
+∗ 1 ×56  
+∗ 2 ×28 
+∗ 4 ×14   (4×14 𝑖𝑖𝑖𝑖 the key since it has a square number which is 4. )                
+∗ 7 ×8             
+So, we can simplify √56= √4×√14=2√14 (because √4=2) 
+Example Problems:  
+1. Simplify √32 
+√32    32 has the factors: 1×32,2 ×16,4×8.  The biggest square number  in this list is 16 . 
+∴√32=√16×√2=4√2    
+2. Simplify 5√18 
+5√18   18 has the factors : 1×18,2×9,3×6.  The biggest square number is 9.   
+∴5√18 =5× √9×√2 
+                =5 ×3 × √2  
+                =15√2 
+18. Your Turn:  
+a) Simplify √81 
+b) Simplify √72 
+c) Simplify 2√48  
+d) Simplify 4√338 
+ 
+Watch this short Khan Academy video for further explanation:  
+“Simplifying square roots ”  
+https://www.khanacademy.org/math/algebra -basics/core -algebra -foundations/square -roots -for-college/v/simplifying -square -
+roots -1 
+
+
+Text from page 29:
+Page 27 of 40 
+ 19. Fraction Powers/Exponents  
+Another way to express the cube root or square root is to use fraction powers. For example, an expression 91
+2 is 
+also the same as the square root of nine: √9. Similarly , √16 could be expressed as 161
+2. 
+Then the same applies for the fractional power/exponent  1
+3 , for example, √83 can also be expressed as 81
+3  
+Thus we could say that an exponent such as 1
+𝑥𝑥 implies to take the 𝑥𝑥 th root.  
+Therefore, to generalise we could say that if 𝑥𝑥1
+2=√𝑥𝑥 and 𝑥𝑥1
+3=√𝑥𝑥3 then 𝑥𝑥1
+𝑛𝑛=√𝑥𝑥𝑛𝑛 
+How does this work:  
+Well let’s look at 271
+3. What can we say about this expression?  
+° It is twenty seven to the fractional exponent of a third  
+° It implies the cube root of 27  
+° The cube root of 27 is 3. (3×3×3)=27 
+° Thus we also know that 33=27 
+° Now  we could simplify 271
+3 to (33)1
+3  
+° So using our knowledge of index laws (page 21) , we could also say that (33)1
+3 is the same as 3(3×1
+3) 
+° This then cancels out to 31=3 
+This is a long way to explain how fractional powers/exponents work, but as with all mathem atics , with practise a 
+pattern forms  making the ‘ how and why ’ of mathematical ideas more evident.    
+What about negative fractional powers /exponents ?  
+Remember we worked with these briefly in section 15, where we looked at  6−3, is the same as  1
+63 : it is the 
+reciprocal.  Hence we can generalise that 𝑎𝑎−𝐷𝐷=1
+𝑁𝑁𝑛𝑛 
+ 
+Let’s explore:  
+° (27)−1
+3  
+° If 𝑎𝑎−𝐷𝐷=1
+𝑁𝑁𝑛𝑛 then  (27)−1
+3= 1
+271
+3 
+° So we know that 271
+3=√273 
+° ∴(27)−1
+3=1
+3 
+19. Your Turn:  
+Evaluate:  
+a) (81)1
+2 
+b) (81)−1
+2 
+ 
+Watch this short Khan Academy video for further explanation:  
+“Basic fractional exponents ”  
+https://www.khanacademy.org/math/a lgebra/exponent -equations/fractional -exponents -tut/v/basic -fractional- exponents  
+
+
+Text from page 30:
+Page 28 of 40 
+ 20. Logarithms 
+With roots we tried to find the unknown base . For instance, 𝑥𝑥3=64   is the same as  √643=𝑥𝑥; (𝑥𝑥 is the base ). 
+A logarithm is used to find an unknown  power /expon ent. For example, 4𝑥𝑥=64 is the same as log464=𝑥𝑥 
+This example above is spoken as :  ‘The logarithm of 64 with base 4 is 𝑥𝑥.’ The base is written in subscript.  
+The g eneral rule  is: 𝑁𝑁=𝑏𝑏𝑥𝑥 log𝑛𝑛𝑁𝑁=𝑥𝑥   
+• In mathematics the base can be any number , but only two types are commonly used:  
+o log10𝑁𝑁  (𝑏𝑏𝑎𝑎𝑖𝑖𝑒𝑒 10)  is often abbreviated as simply Log, and  
+o log𝑁𝑁𝑁𝑁      (𝑏𝑏𝑎𝑎𝑖𝑖𝑒𝑒 𝑒𝑒)   is often abbreviated as Ln or natural log  
+• log10𝑁𝑁  is easy to understand for: log101000 = log1000 =3  (103=1000 )  
+                                                                                            log100 =2 
+• Numbers which are not 10, 100, 1000 and so on are not so easy. For instance, log500 =2.7  It is more 
+efficient to use the calculator for these types of expr essions.   
+ 20. Your Turn:  
+Write an exponential equation for the following : 
+a) 3=log28 
+b) 1
+2= log255 
+c) log749=2 
+d) 3
+2=log1664 
+e) log81
+4=−2
+3 Use a calculator to solve the following:  
+f) log10000 = 
+g) log350 = 
+h) ln56= 
+i) ln100 = 
+ 
+Watch this short Khan Academy video for further explanation:  
+“Logarithms ”  
+https://www.khanacademy.org/math/algebra2/logarithms -tutorial/logarithm_basics/v/logarithms  
+ 
+ 
+ 
+ 
+ 
+ Some resources to help clarify using logs:  
+• Using logs in the real world  
+http://betterexplained.com/articles/using -logs-in-the-real- world / 
+ 
+• TED talk: Logarithms explained 
+http:// ed.ted.com/lessons/steve- kelly -logarithms -explained  
+ 
+
+
+Text from page 31:
+Page 29 of 40 
+ 21. Unit Conversions  
+Measurement is used every day to describe quantity. There are various types of measurements with various units 
+of measure. For instance, we measure time, distance, speed, weight and so on. Then time is measured in seconds, 
+minutes, hours, weeks, days, mont hs, years…  
+Often we are required to convert a unit of measure ; we may be travelling and need to convert measure ments  from 
+imperial to metric, or we may need to convert millimetres to metres for ease of comparison.  In the  fields of  
+science  and medicine , conve rting measurement can be a daily activity.  
+It helps to apply a  formula to convert measurement. H owever, it is essential to understand the how and why of the 
+formula otherwise the activity becomes one we commit to memory without understanding what is r eally 
+happening. More mistakes are made when procedures are carried out without understand ing, which could be  
+particularly troublesome in the field of medicine.  
+The metric system is base 10 which makes unit 
+conversion  relatively easy . For example, we know 
+that there are 10mm in a cm, and there are 100cm 
+in a metre. The metre is a standard unit of length  
+and it helps to understand what a metre looks like 
+so as you get a ‘feel’ for measurement. The height of your kitchen bench might be approximately a metre, and the 
+width of your little finger might be equivalent to a centimetre.  
+Let’s look at conversions symbolically.   
+1𝑠𝑠 =100𝑒𝑒𝑠𝑠=1000𝑠𝑠𝑠𝑠 or we could say that 1𝑠𝑠𝑠𝑠 =1
+10𝑒𝑒𝑠𝑠=1
+1000𝑠𝑠 
+Unit Conversion rules:  
+° Always write the unit of measu re associated with every number.  
+° Always include the units of measure in the calculations.  
+Unit conversion requires algebraic thinking which will be covered in the next booklet; however, here you will be 
+introduced to the conc ept. Let’s convert 58mm into m etres. 58𝑠𝑠𝑠𝑠 ×1𝑁𝑁
+1000𝑁𝑁𝑁𝑁=0.058𝑠𝑠  
+The quantity 1𝑁𝑁
+1000𝑁𝑁𝑁𝑁 is called a conver sion factor ; it is a division/quotient; in this case it has metres on top and mm  
+on the bottom. Another name for the conversion factor is a solution map. So we can see that we work with 
+information given, a conversion factor, and then the desired unit.  
+                                                     
+Example problem:  
+Convert 32  centimetres t o metres. There are 100cm in a metre so our solution map is 1𝑁𝑁
+100𝑒𝑒𝑁𝑁 
+The working i s as follows: 32𝑒𝑒𝑠𝑠×1𝑁𝑁
+100𝑒𝑒𝑁𝑁=0.32𝑠𝑠  
+Here we can cancel out the cm  and are left with metres and the new just need to divide 32 by 100 to get 0.32m.  info given conversion 
+factordesired 
+unit
+
+
+Text from page 32:
+Page 30 of 40 
+ It is helpful to have a thinking process to follow. This one comes from the book, Introductory Chemistry (Tro, 2011, 
+pp. 25 -35). There are four steps to the process: sort, strategise, solve and check.  
+° Sort:  First we sort out what given information is available.  
+° Strategise : The second step is where a solution map is created. You may need to look at a conversi on table 
+and possibly use a combination of solution maps.  
+° Solve : This is the third step which simply means to solve the problem.  
+° Check : The last step requires some logical thought; does the answer make sense?  
+Example problem: Convert 2 kilometres (km) in to centimetres (cm).  
+° Sort : we know there are 1000 metres in one km, and 100cm in one metre.  
+° Strategise : So our maps could be 1000𝑁𝑁
+1𝑘𝑘𝑁𝑁 𝑎𝑎𝑎𝑎𝑎𝑎  100𝑒𝑒𝑁𝑁
+1𝑁𝑁 
+° Solve : 2𝑘𝑘𝑠𝑠×1000𝑁𝑁
+1𝑘𝑘𝑁𝑁×100𝑒𝑒𝑁𝑁
+1𝑁𝑁=𝑥𝑥 𝑒𝑒𝑠𝑠 
+            2𝑘𝑘𝑠𝑠×1000𝑁𝑁
+1𝑘𝑘𝑁𝑁×100𝑒𝑒𝑁𝑁
+1𝑁𝑁=2×1000 ×100  𝑒𝑒𝑠𝑠 ∴2𝑘𝑘𝑠𝑠=200 ,000𝑒𝑒𝑠𝑠  
+° Check : is there 200,000cm in a kilometre? Yes that seems sensible.  
+ 
+21. Your Turn: 
+Convert the following:  
+a) 285m into kilometres  
+° Sort 
+° Strategise  
+° Solve  
+° Check  b) 96cm into kilometres  
+° Sort 
+° Strategise  
+° Solve  
+° Check  
+c) Using this information: 1 𝑠𝑠2=10000𝑒𝑒𝑠𝑠2=1000000 𝑠𝑠𝑠𝑠2  
+Convert 1.5𝑠𝑠2 𝑖𝑖𝑎𝑎𝑒𝑒𝑜𝑜 𝑠𝑠𝑠𝑠2 
+° Sort 
+° Strategise  
+° Solve  
+° Chec k 1𝑠𝑠=100𝑒𝑒𝑠𝑠=1000𝑠𝑠 
+
+Text from page 33:
+Page 31 of 40 
+ 
+The symbol SI comes from the initials of the French term: Systeme International d’Unites  which means 
+international unit system. This system consists of seven base units:  metre, kilogram, second, ampere, kelvin, 
+candela and mole.  
+ 
+ 
+ 
+ 
+ 
+HERE IS A METRIC CONVERSION TABLE : 
+ 
+Prefix  Symbol   Multiples & Submultiples  Measure  Unit  
+mega  M million  1, 000,000  106 information  Mb = megabyte  
+kilo- k thousand  1,000  103 mass  kg = kilogram  
+     length  km = kilometre  
+deci- d tenth  1/10 = 0.1  10-1 length  dm = decimetre  
+centi - c hundredth  1/100 = 0.01  10-2 length  cm = centimetre  
+milli - m thousandth  1/1000 = 0.001  10-3 mass  mg = milligram  
+micro - µ millionth  1/1, 000,000  
+= 0.000001  10-6 mass  µg = microgram  
+nano - n billionth  1/1,000,000,000  
+= 0.000000001  10-9 length  nm = 
+nanometres  
+ 
+ 
+Thus, 1000 milligrams make a gram, and 100 0 grams make a kilogram. So how many milligrams are in a 
+kilogram?  
+1000  𝑖𝑖
+1 x  1000𝑁𝑁𝑖𝑖
+1𝑖𝑖 = 1 000 000 mg  
+ 
+1000  𝑖𝑖
+1 x  1000𝑁𝑁𝑖𝑖
+1𝑖𝑖 = 1 000 000 mg  
+ 
+HERE IS  A VOLUME  CONVERSION TABLE : 
+ 
+SI unit  Liquid volume measure  
+1 m3 = cubic metre  1000 Litres (L)  
+1 dm3 = cubic decimetre  1 Litre (L)  
+1 cm3 = cubic centimetre  1 millilitre (mL)  
+ 
+ 
+MORE STEP-BY-STEP GUIDE S TO CONVER TING UNITS : 
+Method 1: using a graphic to help.  
+Example: convert 10m into centimetres.  
+1. Draw a great big ‘t’ like this graphic.   
+ Quantity     Name     Symbol  
+length  meter (or metre)  m 
+mass  kilogram  kg 
+time  second  s 
+electric current  ampere  A 
+thermodynamic temperature  kelvin  K 
+luminous intensity  candela  cd 
+amount of substance  mole  mol 
+
+Text from page 34:
+Page 32 of 40 
+ 2. Put the number that you have to convert into the top left corner of this graphic.  
+ 
+ 
+3. Put the unit of that number in the bo ttom right part of the graphic.
+ 
+ 
+ 4. Write the unit you want in the top right part of the graphic.    
+ 
+ 
+5. Write the conversion factor (solution map) in front of the units from step 3 and 4. There are 100  
+centimetres in a metre 100cm/1m.  
+ 
+ 
+ 
+6. Once you have the graphic filled out, all you have left to do is multiply all the numbers on the top 
+together, and divide this by the product of the numbers at the bottom. The unit of the answer will be 
+‘centimetres’ as the ‘metres’ cancel out:  
+          10𝑁𝑁 × 100𝑒𝑒𝑁𝑁
+1𝑁𝑁=1000  𝑒𝑒𝑠𝑠 
+ 
+
+
+Text from page 35:
+Page 33 of 40 
+ Method 2  
+1. Write the conversion as a fraction.  
+2. Multiply out (include all units in the working).  
+3. Cancel any units that are both top and 
+bottom.  
+Examples:  
+a) Convert 0.15g to milligrams  
+0.15 𝑖𝑖
+1 x 1000𝑁𝑁𝑖𝑖
+1𝑖𝑖 = 150 mg         b)  Convert 5234 ml to litres  
+           5234𝑁𝑁𝑚𝑚
+1 ×1𝑚𝑚
+1000𝑁𝑁𝑚𝑚 = 5.234 L 
+c)   Convert 21g/L to mg/ml  
+21𝑖𝑖
+1𝑚𝑚×1000𝑁𝑁𝑖𝑖
+1𝑖𝑖×1𝑚𝑚
+1000𝑁𝑁𝑚𝑚=  21 mg/m L 
+21. Your turn (continued)  
+Define the following SI unit  prefixes , in words, as a number , and in exponential notation : 
+d) kilo  
+e) centi  
+f) mega  
+g) deci  
+   Convert the following:  
+        h) H ow many millilitres are in a cubic metre?  
+ 
+ 
+        i) H ow many inches in 38.10 cm (2.54cm = 1 inch)          j) How many centimetres in 1.14  kilometres?  
+ 
+ 
+        k) How many litres are in 3. 5×105 millilitres?  
+ 
+ 
+ 
+ 
+ 
+ 
+Watch this short Khan Academy video for further explanation:  
+“Unit conversion word problem: drug dosage ”  
+https://www.khanacademy.org/math/cc -sixth -grade- math/cc -6th-ratios -prop -topic/cc- 6th-unit-conversion/v/unit -conversion -
+example- drug -dosage  
+
+
+Text from page 36:
+Page 34 of 40 
+ 22. ANSWERS  
+ 
+1. Introduction  (pages 3 and 4)  
+a. F       b . T       c . T       d . T     e. F      f. six thousand     g. one hundredth      h. 15      i. 70      j.  i) 4     ii) - 21     iii) - 9 
+ 
+2. Rounding and E stimating  (page 5)  
+A. a. 34.599    b. 56.673   B .a. ≈ 35x60=2100  b. ≈ 36-13=23  c.≈ 30x4=120  
+ 
+3. Order of O perations  (page 6)  
+a. 31 b. 34       c. 22. 4     d. 32  
+ 
+4. Naming F ractions (page 7)  
+        a. 3
+16          b . 1
+16       c . 3
+16      d . 1
+4 
+ 
+5. Equivalent F ractions (page 8)  
+a. 6      b. 63       c. 27      d . 16     e. 3
+32       f. 1
+32 
+ 
+6. Converting Mixed Numbers to Improper Fractions  (page 9) 
+a. 9
+2 b. 16
+3   c. 38
+5     d. 17
+8 
+ 
+7. Converting Improper Fractions to Mixed Numbers  (page 10)  
+a.  12
+5 b. 13
+9 = 11
+3 c. 58
+9    d. 36
+7 
+ 
+ 
+8. Converting Decimals into Fractions  (page 11)  
+𝑎𝑎.65
+100 = 13
+20  b. 2666
+1000 ≈= 22
+3  c. 54
+100=27
+50  d.  314
+100 = 3 7
+50 
+ 
+9. Converting Fractions into Decimals  (page 12)  
+a. 0.739   b. 0.069   c. 56.667   d. 5.8 
+ 
+ 
+ 
+
+Text from page 37:
+Page 35 of 40 
+ 10. Fraction Addition and Subtraction  (page 13)  
+a. 11
+15 
+b.    3
+4+2
+7=(3×7)+(2×4)
+(4×7)=21+8
+28=29
+28=11
+28  
+c.    22
+3+13
+4= 8
+3+7
+4=(8×4)+(7×3)
+(3×4)=32 +21
+12= 53
+12=45
+12        Note: Convert mixed to improper.  
+       d.    6 1
+24 
+e.    9
+12−1
+3=(9×3)−(1×12)
+(12×3)= 27−12
+36=15
+36=5
+12   Note: equivalent fraction  
+f.     1
+3−1
+2= (1×2)−(1×3)
+(3×2)= 2−3
+6= −1
+6= −1
+6   Note: you have taken more then you originally had.  
+ 
+11. Fraction Multiplication and Division  (page 15)  
+a. 5
+12         b.  14
+39 c.  7
+27    d. 71
+2      e. 11
+14         f.  108
+175          g.  - 1
+2      h. 63
+8 𝑜𝑜𝑜𝑜 77
+8      i. 4      j. 8     
+ 
+12. Percentage (page 16 , 17 & 18 ) 
+        a. 88c b.. 16.7%       c. 16
+25 
+        What do I need to get on my final exam? Credit (70.83%); Distinction (95.83%); HD (120.83 ∴not possible)  
+ 
+13. Ratios (pages 19 and 20 ) 
+ 
+        a. 2500 grams   b. 20 cups        c.  7.8m     d . ½ tablet    e . 160mg    f . 1.3    g . 84mL, 336mL, 504mL     h . 7.5mL  
+      Extra Equations  
+         i. 1 8       j. 24       k . 10       l . 14        m. -13      n . -2       o. 117       p . - 1
+2 
+ 
+14. Averages (page 21 ) 
+       a. 41  b. 36  c. 22  d. mean (depending on the purpose, who, what, why)  
+ 
+15. Powers (page 22 ) 
+       a. 4.50×102      b. 9.0×107      c. 3.5       d. 9.75×10−2     e. 375      f. 39.7     g. 0.1875     h. −0.00875  
+ 
+16. Power Operations  (page 23 ) 
+a. 56+52       b. 𝑥𝑥7          c . 𝑒𝑒3         d. 512   
+
+Text from page 38:
+Page 36 of 40 
+ 17. Roots (page  24) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18. Root O perations  (page 25 ) 
+a. 9  b. 6√2  c. 8 √3  d. 52√2 
+ 
+19. Fraction Powers (page 26 )  
+       a. √81=±9       b. 1
+√81=1
+±9=±1
+9 
+ 
+20. Logarithms  (page 2 7)
+a. 3=log28 ↔ 23=8 
+ 
+b. 1
+2= log255 ↔ 251
+2=5  
+251
+2 ↔√25 
+ 
+c. log749=2↔72=49 
+ 
+d. 3
+2=log1664 ↔163
+2=64 
+163
+2=163×1
+2 
+𝑇𝑇ℎ𝑛𝑛𝑖𝑖 �163= √4096 =64 e. log81
+4=−2
+3↔ 8(−2
+3)=1
+4 
+1
+82
+3=1
+82×1
+3  
+=1
+√823 = 1
+√643  
+=1
+4 
+f. 4 
+g. 2.54  
+h. 4.025  
+i. 4.605  
+ 
+21. Unit Conversions (page 29 ) 
+       a. 0.285𝑘𝑘𝑠𝑠      b. 0.00096𝑘𝑘𝑠𝑠 or 9.6𝑘𝑘𝑠𝑠×10−4      c. 1500000 𝑠𝑠𝑠𝑠2 or 1.5𝑠𝑠𝑠𝑠2×106                
+        𝑎𝑎2  √ ± 
+12 1 √1 1 
+22 4 √4 2 
+32 9 √9 3 
+42 16 √16 4 
+52 25 √25 5 
+62 36 √36 6 
+72 49 √49 7 
+82 64 √64 8 
+92 81 √81 9 
+102 100 √100 10 
+112 121 √121 11 
+122 144 √144 12 
+132 169 √169 13 
+
+Text from page 39:
+Page 37 of 40 
+ 21. Unit Conversions (continued)  (page 32)  
+       d. kilo   one thousand, 1 000, 103 
+      e. centi  one hundredth, 0.01, 10−2 
+      f. mega  one million, 1 000 000, 106 
+      g. deci  one tenth, 0.1, 10−1 
+      h.   1.00 ×106𝑠𝑠𝑚𝑚             1𝑁𝑁3 
+1×1000𝑚𝑚
+1𝑁𝑁3×1000𝑁𝑁𝑚𝑚
+1𝑚𝑚 = 1000 000mL or 1.00 ×106𝑠𝑠𝑚𝑚  
+ 
+      i.    15 inches:    if 2.54cm = 1 inch , then         38.1𝑒𝑒𝑁𝑁 
+1×1𝐷𝐷𝐷𝐷𝑒𝑒ℎ
+2.54𝑒𝑒𝑁𝑁=15𝑖𝑖𝑎𝑎𝑒𝑒ℎ𝑒𝑒𝑖𝑖 
+ 
+ 
+      j.    1.14×105𝑒𝑒𝑠𝑠:      1.14𝑘𝑘𝑁𝑁 
+1×100𝑒𝑒𝑁𝑁
+1𝑁𝑁×1000𝑁𝑁
+1𝑘𝑘𝑁𝑁=114000𝑒𝑒𝑠𝑠   
+ 
+ 
+      k.   350litres :     350000𝑁𝑁𝑚𝑚 
+1×1𝑚𝑚
+1000𝑁𝑁𝑚𝑚=350𝑚𝑚                                 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Text from page 40:
+Page 38 of 40 
+  
+23. Glossary 
+ 
+Addition Bringing two or more numbers (or things) together to make a new total, e.g. 3+2   
+Arithmetic  The study of numbers and their manipulation  
+Average A calculated “central” value of a set of numbers (see mean)  
+Denominator The bottom number in a fraction; it sho ws how many equal parts the item is divided into  
+Difference The result of subtracting one number from another (how much one number differs from another); e.g. 
+the difference between 8 and 3 is 5  
+Division Splitting into equal parts or groups, e.g. 12 chocolates shared by 3 friends are divided into 4 chocolates per 
+person  
+Equation An equation says that two things are the same, using mathematical symbols, e.g. 7 + 2 = 10 -  1 
+Equivalent fraction Alternative ways of writing the same fraction, e.g. 1/2 = 2/4 = 3/ 6; equivalent fractions have 
+the same value, even though they look different  
+Exponent The power to which a number is raised. The exponent of a number says how many times to use that 
+number in a multiplication and is written as a small number to the right and above the base number, e.g. 83= 8 x 8 x 
+8 = 512  
+Fraction A quantity that is not a whole number, e.g. 1/2, 3/7; (a part of a whole)  
+Improper fraction A fraction with the numerator (top number) larger than (or equal to) the denominator (bottom 
+number), e .g. 3/2, 7/3, 16/15  
+Integer  Positive and negative whole numbers including zero, e.g. - 6, -2, 0, 1, 12  
+Irrational number A real number that cannot be written as a simple fraction, e.g. π = 3.14158…(Pi cannot be turned 
+into a fraction)  
+Logarithm How many of one number need to be multiplied to get another number, e.g. how many 2s need to be 
+multiplies to get 8? 2 x 2 x 2 = 8, so we need to multiply 3 of the 2s to get 8, so the logarithm is 3  
+Mean A calculated “central” value of a set of numbers (often called average); to calculate, add up all the numbers, 
+then divide by how many numbers there are  
+Median The middle number in a sorted list of numbers  
+Mixed fraction (also called mixed numbers ) A whole number and a proper fraction combined, e.g. 1 1/3 (one and 
+thre e quarters)  
+Mode The number that appears most often in a set of numbers  
+
+Text from page 41:
+Page 39 of 40 
+ Multiplication A quicker way of repeating addition, e.g. 5 x 3 = 5 + 5 + 5 = 15  
+Numerator The top number in a fraction; it shows how many parts we have  
+Operator  Symbols used between nu mbers to indicate a task or relationship, e.g. +, - , x, =  
+Percent Part per 100; it tells you a ratio out of 100, e.g. 25% means 25 per 100, so when 25% of people have ice 
+cream that means that 25 out of every 100 people have ice cream. If there were 500 pe ople, then 125 would have 
+ice cream  
+Power see Exponent  
+Product The answer when two or more numbers are multiplied together, e.g. 18 is the product of 6 and 3  
+Proper fraction A fraction where the numerator (the top number) is less than the denominator (the bottom 
+number), e.g. 1/4, 5/6  
+Quotient The answer after you divide one number by another (dividend ÷ divisor = quotient); e.g. in 12 ÷ 3 = 4, 4 is 
+the quotient  
+Ratio A ratio shows the relative sizes of two or more values, a ratio can be shown in different  ways, e.g. if there is 1 
+boy and 3 girls you could write the ratio as: 1:3, 1/4 are boys and 3/4 are girls, 0.25 are boys (by dividing 1 by 4), or 
+25% are boys (0.25 as a percentage)  
+Rational number A real number that can be written as a simple fraction, e.g. 1.5 (because 1.5 = 3/2)  
+Rounding Reducing the digits in a number while trying to keep its value similar; the result is less accurate, but 
+easier to use, e.g. 73 rounded to the nearest ten is 70 because 73 is closer to 70 than to 80.  
+Subtraction Taking  one number away from another, e.g. 5 -  3 
+Sum The result of adding two or more numbers, e.g. 9 is the sum of 2, 4 and 3  
+Square root A value that, when multiplied by itself, gives the number, e.g. 4 x 4 = 16, so the square root of 16 is 4  
+Unit A quantity used as a standard of measurement, e.g. units of time are second, minute, hour, day, week, moth, 
+year and decade  
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+
+Text from page 42:
+Page 40 of 40 24.Helpful websites
+Integers:  http://www.factmonster.com/ipka/A0876848.html  
+Rounding:  http://www.mathsisfun.com/rounding- numbers.html 
+Estimating:  http://mathandreadinghelp.org/how_to_estimate_a_math_problem.html  
+Order of Operations: http://www.mathgoodies.com/lessons/vol7/order_operations 
+Equiva lent F ractions: http://www.mathsisfun.com/equivalent_fractions.html  
+Mixed F raction: Jamit Way Back Machine
+Decim als:  http://www.mathsisfun.com/converting- fractions -decimals.html  
+Addition S ubtraction: http://www.mathsisfun.com/fractions_addition.html  
+Multiplication D ivision: http://www.mathsisfun.com/fractions_multiplication.html  
+Ratio:  http://www.mathsisfun.com/numbers/ratio.html  
+Nursing C alculat ions: http://nursing.flinders.edu.au/students/studyaids/drugcalculations/ 
+https://percentagecalculator.net/Percentage: 
+http: / /www.mathsisfun.com/percentage.html  
+Powers: 
+Roots: https://www.mathsisfun.com/definitions/power.htmlind.htm    
+http://www.math.utah.edu/online/1010/radicals/  
+  Logarithms:     http://www.mathsisfun.com/algebra/logarithms.html 
+
+
+INFO:root:--------------------
+INFO:root:kim_pdfreader is thinking...
+INFO:root:Done
+INFO:root:[blue]kim_pdfreader: 
+INFO:root:The first page of the "Maths Refresher Workbook 1" from James Cook University provides an introduction to the workbook's purpose. It states that the booklet is designed to help refresh the reader's understanding of key mathematical concepts, specifically:
+
+- Numbers
+- Decimals, fractions, and percentages
+- Exponents and roots
+
+The page also includes a link to the James Cook University Learning Centre for further resources.
+INFO:root:Done
+INFO:root:[green]User: 
+INFO:root:
+[red]Bye!
+INFO:root:
+[red]Bye!

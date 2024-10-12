@@ -14,6 +14,7 @@ from .code_interpreter import PythonCodeInterpreter
 from .file_operation import WriteFile, ReadFile
 from .duckduckgo import DuckDuckGo
 from .pdfreader import PDFAnalyzer
+from .currencyconverter import CurrencyConverter
 
 
 def load_tools(name: str) -> BaseTool:
@@ -45,6 +46,7 @@ def load_tools(name: str) -> BaseTool:
         "search_related_paper": SearchRelatedPaper,
         "search_cite_paper": SearchCitePaper,
         "pdf_reader" : PDFAnalyzer,
+        "convert": CurrencyConverter,
     }
     if name not in name2tool:
         raise NotImplementedError
